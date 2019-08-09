@@ -48,7 +48,7 @@ $lang = array_merge($lang, [
 	'DELETE_INACTIVE_USERS_POSTS_EXPLAIN'				=> 'Definir contagem de posts para os usuários. O padrão é 0.',
 	'DELETE_INACTIVE_USERS_INACTIVE_PERIOD'				=> 'Selecione o período',
 	'DELETE_INACTIVE_USERS_INACTIVE_PERIOD_EXPLAIN'		=> 'Definir período de inatividade pelos usuários. Data de registro e data da última atividade.',
-	'DELETE_INACTIVE_USERS_SAVED'						=> 'Configurações de Excluir Usuários Inativos salvas..',
+	'DELETE_INACTIVE_USERS_SAVED'						=> 'Configurações de Excluir Usuários Inativos salvas.',
 	'DELETE_INACTIVE_USERS_GROUP_EXCEPTIONS'			=> 'Exceção de grupo(s)',
 	'DELETE_INACTIVE_USERS_GROUP_EXCEPTIONS_EXPLAIN'	=> 'Exclua os grupos aqui que não serão removidos.<br />Selecione vários grupos segurando <samp>CTRL</samp> (ou <samp>&#8984;CMD</samp> no Mac) e clicando.',
 ]);
