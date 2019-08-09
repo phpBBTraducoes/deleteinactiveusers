@@ -36,5 +36,5 @@ $lang = array_merge($lang, [
 	'ACP_DELETE_INACTIVE_USERS_TITLE'		=> 'Excluir Usuários Inativos',
 	'ACP_DELETE_INACTIVE_USERS_SETTINGS'	=> 'Configurações',
 	//Log
-	'LOG_DELETE_INACTIVE_USERS_SAVED'		=> '<strong>Configurações de Excluir Usuários Inativos salvas.</strong>', .
+	'LOG_DELETE_INACTIVE_USERS_SAVED'		=> '<strong>Configurações de Excluir Usuários Inativos salvas.</strong>',
 ]);
